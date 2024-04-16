@@ -40,7 +40,7 @@ Aprender o básico sobre contribuição no git e GitHub.
       <td>Formas de Contribuir num Projeto Open Source</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+           <img align="center" alt="Material  de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -49,7 +49,7 @@ Aprender o básico sobre contribuição no git e GitHub.
       <td>Desenvolvendo e Enviando uma Contribuição</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+           <img align="center" alt="Material  de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
